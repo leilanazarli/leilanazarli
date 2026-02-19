@@ -2,7 +2,7 @@
 <h3 align="center">Passionate Full-stack Developer from Azerbaijan</h3>
 
 <p align="center">
-  <img src="https://github.com/leilanazarli/leilanazarli/Gemini_Generated_Image_2n7v382n7v382n7v.png" alt="Leila's Robot Avatar" width="600">
+  <img src="Gemini_Generated_Image_2n7v382n7v382n7v.png" alt="Leila's Robot Avatar" width="600">
 </p>
 
 ---
